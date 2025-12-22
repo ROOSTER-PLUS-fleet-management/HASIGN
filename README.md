@@ -1,2 +1,4 @@
 # HASIGN
 HASIGN: Human-Autonomous System Interaction Graphical Notation. It was created to make the design space of human-multi-AGV interaction explicit and tractable. HASIGN integrates agent roles, interaction modalities, and temporal intent communication into a unified and practical representation.
+
+You will find a Miro Template for this graphical notation for you to use in order to design a human-robot interaction system. The Miro template is a .rtb file named HASIGN for Human-robot interaction design.rtb. In order to start designing your system, you will need to download the file and then import it into your Miro account. you can do this by clicking Create New in your Miro dashboard, then scroll to Import, and then click Import Backup, and choose this .rtb file that you have downloaded from this repository.
